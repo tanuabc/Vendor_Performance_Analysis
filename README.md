@@ -91,6 +91,8 @@ Page 2 – Vendor Deep Dive
 
 📷 Dashboard Preview
 
+![Dashboard Preview](images/dashboard1.png)
+
 
 ---
 
