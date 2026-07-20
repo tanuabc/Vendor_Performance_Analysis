@@ -91,7 +91,8 @@ Page 2 – Vendor Deep Dive
 
 📷 Dashboard Preview
 
-![Dashboard Preview](images/dashboard1.png)
+<img width="1438" height="800" alt="Screenshot 2026-07-21 000138" src="https://github.com/user-attachments/assets/370b8cc6-1364-4271-8e8b-8a6dbeb1ab41" />
+<img width="1350" height="807" alt="Screenshot 2026-07-21 000212" src="https://github.com/user-attachments/assets/59b3f67d-ab26-498d-841d-64451c251ef7" />
 
 
 ---
