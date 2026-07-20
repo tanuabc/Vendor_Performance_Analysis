@@ -103,4 +103,3 @@ Tanishq Thakur
 
 Aspiring Data Analyst passionate about transforming raw data into meaningful business insights using Power BI, Excel, SQL, and Python.
 
-⭐ If you found this project useful, consider giving it a Star on GitHub!
